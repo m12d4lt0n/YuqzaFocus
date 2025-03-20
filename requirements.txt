@@ -2,3 +2,9 @@ cohere==5.14.0
 gTTS==2.5.4
 gunicorn
 Django==4.2.16
+rest_framework
+api
+random
+string
+base64
+json
