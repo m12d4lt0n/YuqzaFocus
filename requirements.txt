@@ -4,7 +4,3 @@ gunicorn
 Django==4.2.16
 djangorestframework
 api
-random
-string
-base64
-json
